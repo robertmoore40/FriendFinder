@@ -1,0 +1,150 @@
+var storedFriendsObjects = [{
+    "name":"Tom Cruise",
+    "photo":"friendObject1.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+},
+{
+    "name":"Norm MacDonald",
+    "photo":"friendObject2.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+},
+{
+    "name":"Czesław Miłosz",
+    "photo":"friendObject3.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+},
+{
+    "name":"Mikhail Bulgakov",
+    "photo":"friendObject4.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+},
+{
+    "name":"Crito",
+    "photo":"friendObject5.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ],
+      "name":"Suguru Kamoshida",
+    "photo":"friendObject6.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ],
+      "name":"Don Quixote",
+    "photo":"friendObject7.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ],
+      "name":"Benjamin Franklin",
+    "photo":"friendObject8.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ],
+      "name":"Friedrich der Große)",
+    "photo":"friendObject9.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ],
+      "name":"Christopher Hitchens",
+    "photo":"friendObject10.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ],
+}];
