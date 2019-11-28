@@ -26,8 +26,8 @@ var storedFriendsObjects = [{
         1,
         2,
         5,
-        4,
-        1
+        5,
+        5
       ]
 },
 {
@@ -39,7 +39,7 @@ var storedFriendsObjects = [{
         4,
         4,
         5,
-        1,
+        3,
         2,
         5,
         4,
@@ -55,11 +55,11 @@ var storedFriendsObjects = [{
         4,
         4,
         5,
-        1,
+        2,
         2,
         5,
         4,
-        1
+        2
       ]
 },
 {
@@ -72,18 +72,18 @@ var storedFriendsObjects = [{
         4,
         5,
         1,
-        2,
-        5,
+        4,
+        4,
         4,
         1
       ],
       "name":"Suguru Kamoshida",
     "photo":"friendObject6.jpg",
     "scores":[
-        5,
         1,
-        4,
-        4,
+        1,
+        1,
+        1,
         5,
         1,
         2,
@@ -94,12 +94,12 @@ var storedFriendsObjects = [{
       "name":"Don Quixote",
     "photo":"friendObject7.jpg",
     "scores":[
-        5,
-        1,
         4,
         4,
-        5,
-        1,
+        4,
+        4,
+        4,
+        4,
         2,
         5,
         4,
@@ -114,9 +114,9 @@ var storedFriendsObjects = [{
         4,
         5,
         1,
-        2,
-        5,
-        4,
+        1,
+        1,
+        1,
         1
       ],
       "name":"Friedrich der Große)",
@@ -127,24 +127,26 @@ var storedFriendsObjects = [{
         4,
         4,
         5,
-        1,
-        2,
+        3,
+        4,
         5,
         4,
-        1
+        3
       ],
       "name":"Christopher Hitchens",
     "photo":"friendObject10.jpg",
     "scores":[
         5,
+        2,
+        2,
         1,
-        4,
-        4,
-        5,
+        1,
         1,
         2,
-        5,
-        4,
+        1,
+        1,
         1
       ],
 }];
+
+module.exports = storedFriendsObjects;
