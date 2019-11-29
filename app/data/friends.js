@@ -147,6 +147,34 @@ var storedFriendsObjects = [{
         1,
         1
       ],
+      "name":"Murray Rothbard",
+    "photo":"friendObject11.jpg",
+    "scores":[
+        5,
+        2,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1
+      ],
+      "name":"Tony G",
+    "photo":"friendObject12.jpg",
+    "scores":[
+        5,
+        2,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1
+      ]
 }];
 
 module.exports = storedFriendsObjects;
