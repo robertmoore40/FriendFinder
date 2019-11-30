@@ -1,6 +1,6 @@
 var storedFriendsObjects = [{
     "name":"Tom Cruise",
-    "photo":"friendObject1.jpg",
+    "image":"friendObject1.jpg",
     "scores":[
         5,
         1,
@@ -16,7 +16,7 @@ var storedFriendsObjects = [{
 },
 {
     "name":"Norm MacDonald",
-    "photo":"friendObject2.jpg",
+    "image":"friendObject2.jpg",
     "scores":[
         5,
         1,
@@ -32,7 +32,7 @@ var storedFriendsObjects = [{
 },
 {
     "name":"Czesław Miłosz",
-    "photo":"friendObject3.jpg",
+    "image":"friendObject3.jpg",
     "scores":[
         5,
         1,
@@ -48,7 +48,7 @@ var storedFriendsObjects = [{
 },
 {
     "name":"Mikhail Bulgakov",
-    "photo":"friendObject4.jpg",
+    "image":"friendObject4.jpg",
     "scores":[
         5,
         1,
@@ -64,7 +64,7 @@ var storedFriendsObjects = [{
 },
 {
     "name":"Crito",
-    "photo":"friendObject5.jpg",
+    "image":"friendObject5.jpg",
     "scores":[
         5,
         1,
@@ -78,7 +78,7 @@ var storedFriendsObjects = [{
         1
       ],
       "name":"Suguru Kamoshida",
-    "photo":"friendObject6.jpg",
+    "image":"friendObject6.jpg",
     "scores":[
         1,
         1,
@@ -92,7 +92,7 @@ var storedFriendsObjects = [{
         1
       ],
       "name":"Don Quixote",
-    "photo":"friendObject7.jpg",
+    "image":"friendObject7.jpg",
     "scores":[
         4,
         4,
@@ -106,7 +106,7 @@ var storedFriendsObjects = [{
         1
       ],
       "name":"Benjamin Franklin",
-    "photo":"friendObject8.jpg",
+    "image":"friendObject8.jpg",
     "scores":[
         5,
         1,
@@ -120,7 +120,7 @@ var storedFriendsObjects = [{
         1
       ],
       "name":"Friedrich der Große)",
-    "photo":"friendObject9.jpg",
+    "image":"friendObject9.jpg",
     "scores":[
         5,
         1,
@@ -134,7 +134,7 @@ var storedFriendsObjects = [{
         3
       ],
       "name":"Christopher Hitchens",
-    "photo":"friendObject10.jpg",
+    "image":"friendObject10.jpg",
     "scores":[
         5,
         2,
@@ -148,7 +148,7 @@ var storedFriendsObjects = [{
         1
       ],
       "name":"Murray Rothbard",
-    "photo":"friendObject11.jpg",
+    "image":"friendObject11.jpg",
     "scores":[
         5,
         2,
@@ -162,7 +162,7 @@ var storedFriendsObjects = [{
         1
       ],
       "name":"Tony G",
-    "photo":"friendObject12.jpg",
+    "image":"friendObject12.jpg",
     "scores":[
         5,
         2,
