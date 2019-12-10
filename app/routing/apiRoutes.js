@@ -1,5 +1,5 @@
 var importedFriendsObject = require ("../data/friends.js");
-Bu
+
 // keep variables in global scope to import to other functions
 module.exports = function(app) {
 
@@ -14,7 +14,8 @@ module.exports = function(app) {
 
       var newUserScore = req.body.scores
       var scoreArray = [];
-      var closestMatch = 0;
+      var closestMatch;
+      // declared but no definition
     
       // first loop
 
@@ -27,7 +28,10 @@ module.exports = function(app) {
       scoreArray.push(scoresDifference);
     }
     for(var i=0; i<scoreArray.length; i++){
-      if(scoreArray[i] <= scoreArray[closestMatch]){
+      if(scoreArray[i] < scoreArray[closestMatch]){
+        // removed =, don't want to overwrite
+        // .02 is not irregular enough 
+        // would make array of closest people - returns top three
         closestMatch = i;
       }
     }
